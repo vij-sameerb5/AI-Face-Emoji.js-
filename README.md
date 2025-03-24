@@ -3,7 +3,7 @@
 **Version 2.0**  
 Real-time facial emotion detection in your browser using AI and emojis.
 
-[🔗 Live Demo](https://louiejancevski.github.io/FacialEmotionDetector)
+[🔗 Live Demo](https://github.com/vij-sameerb5)
 
 ---
 
