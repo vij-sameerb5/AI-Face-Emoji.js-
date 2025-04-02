@@ -73,6 +73,6 @@ Once your camera is enabled, the app will:
 ### Installation
 
 ```bash
-git clone https://github.com/louiejancevski/FacialEmotionDetector.git
+git clone https://github.com.git
 cd FacialEmotionDetector
 npm install
